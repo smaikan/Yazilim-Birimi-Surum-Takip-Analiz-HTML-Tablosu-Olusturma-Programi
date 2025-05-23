@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bsstajyer1\\source\\repos\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\models\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\models\\source.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|c:\\users\\bsstajyer1\\source\\repos\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EBEC7D-CC2E-413C-8E60-9FB363DEE12A}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T11:52:11.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:32:55.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T12:31:19.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "source.cs",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Models\\source.cs",
+              "RelativeDocumentMoniker": "API\\Models\\source.cs",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Models\\source.cs",
+              "RelativeToolTip": "API\\Models\\source.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:24:30.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Controllers\\DataController.cs",
+              "RelativeToolTip": "API\\Controllers\\DataController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:54:59.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:31:35.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\bsstajyer1\\source\\repos\\API\\API\\Data\\DataContext.cs",
+              "RelativeToolTip": "API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T12:27:11.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

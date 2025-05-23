@@ -1,0 +1,367 @@
+    <style>
+/*---------------STIL-UYGULAMA LISTESI [BASLANGIC]--------------------*/
+      .baslik
+      {
+        font-size:24px;
+        font-weight:bold;
+        color:firebrick;
+        text-align:center;
+      }
+      .baslik-bilgi
+      {
+        font-size:12px;
+        text-align:left;
+        font-weight:normal;
+        color:gray;
+      }
+      .baslik-satir
+      {
+        height:40px;
+      }
+      .baslik-satir-1-hucre-1
+      {
+        font-size:12px;
+        text-align:left;
+        text-decoration: underline;
+        padding-left:4px;
+        width:100px;
+        min-width: 100px;
+        border-top:solid #9CC2E5 3px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#E6F3FF;
+        font-weight:bold;
+        color:#2E74B5;
+        cursor: pointer;
+      }
+      .baslik-satir-1-hucre-2
+      {
+        font-size:12px;
+        text-align:left;
+        padding-left:10px;
+        width:690px;
+        border-top:solid #9CC2E5 3px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        font-weight:normal;
+        background:#F2F9FF;
+        color:#000000;
+      }
+      .baslik-satir-2-hucre-1
+      {
+        font-size:12px;
+        text-align:left;
+        text-decoration: underline;
+        padding-left:4px;
+        border-top:solid #B59B51 3px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#FFF6DD;
+        font-weight:bold;
+        color:#6D5F38;
+        cursor: pointer;
+      }
+      .baslik-satir-2-hucre-2
+      {
+        font-size:12px;
+        text-align:left;
+        padding-left:10px;
+        border-top:solid #B59B51 3px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        font-weight:normal;
+        background:#FFFBF0;
+        color:#000000;
+      }
+      .baslik-satir-3-hucre-1
+      {
+        font-size:12px;
+        text-align:left;
+        text-decoration: underline;
+        padding-left:4px;
+        border-top:solid #62B870 3px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#E7FFEB;
+        font-weight:bold;
+        color:#3A6C42;
+        cursor: pointer;
+      }
+      .baslik-satir-3-hucre-2
+      {
+        font-size:12px;
+        text-align:left;
+        padding-left:10px;
+        border-top:solid #62B870 3px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        font-weight:normal;
+        background:#F3FFF5;
+        color:#000000;
+      }
+/*---------------STIL-UYGULAMA LISTESI [BITIS]--------------------*/
+/*---------------STIL-HOROZ ONLINE [BASLANGIC]--------------------*/
+      .online-surum-notlari
+      {
+        font-size:22px;
+        font-weight:bold;
+        color:#2E74B5;
+      }
+      .online-surum-notlari-hucre-1
+      {
+        width:400px;
+        text-align:left;
+      }
+      .online-surum-notlari-hucre-2
+      {
+        width:400px;
+        text-align:right;
+      }
+      .online-tablo-genel
+      {
+        border:solid #9CC2E5 2px;
+      }
+      .online-versiyon-satir-1-hucre-1
+      {
+        text-align:left;
+        border-bottom:solid #9CC2E5 3px;
+        font-size:18px;
+        font-weight:bold;
+        color:#2E74B5;
+      }
+      .online-versiyon-satir-2
+      {
+        height:40px;
+      }
+      .online-versiyon-satir-2-hucre-1
+      {
+        text-align:center;
+        width:140px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#E6F3FF;
+        font-weight:normal;
+        color:#2E74B5;
+      }
+      .online-versiyon-satir-2-hucre-2
+      {
+        text-align:left;
+        width:646px;
+        padding-left:10px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#F2F9FF;
+        font-weight:normal;
+        font-style: italic;
+      }
+      .online-yenilikler-satir-1-hucre-1
+      {
+        text-align:left;
+        border-bottom:solid #9CC2E5 3px;
+        font-size:18px;
+        font-weight:normal;
+        color:#2E74B5;
+      }
+      .online-yenilikler-satir-2
+      {
+        height:40px;
+      }
+      .online-yenilikler-satir-2-hucre-1
+      {
+        text-align:center;
+        width:60px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#F2F9FF;
+        font-weight:bold;
+        color:#2E74B5;
+      }
+      .online-yenilikler-satir-2-hucre-2
+      {
+        text-align:left;
+        padding-left:10px;
+        width:726px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+      }
+/*---------------STIL-HOROZ ONLINE [BITIS]--------------------*/
+/*---------------STIL-HOROZ ERP [BASLANGIC]--------------------*/
+      .erp-surum-notlari
+      {
+        font-size:22px;
+        font-weight:bold;
+        color:#6D5F38;
+      }
+      .erp-surum-notlari-hucre-1
+      {
+        width:400px;
+        text-align:left;
+      }
+      .erp-surum-notlari-hucre-2
+      {
+        width:400px;
+        text-align:right;
+      }
+      .erp-tablo-genel
+      {
+        border:solid #B59B51 2px;
+      }
+      .erp-versiyon-satir-1-hucre-1
+      {
+        text-align:left;
+        border-bottom:solid #B59B51 3px;
+        font-size:18px;
+        font-weight:bold;
+        color:#6D5F38;
+      }
+      .erp-versiyon-satir-2
+      {
+        height:40px;
+      }
+      .erp-versiyon-satir-2-hucre-1
+      {
+        text-align:center;
+        width:140px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#FFF6DD;
+        font-weight:normal;
+        color:#6D5F38;
+      }
+      .erp-versiyon-satir-2-hucre-2
+      {
+        text-align:left;
+        width:646px;
+        padding-left:10px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#FFFBF0;
+        font-weight:normal;
+        font-style: italic;
+      }
+      .erp-yenilikler-satir-1-hucre-1
+      {
+        text-align:left;
+        border-bottom:solid #B59B51 3px;
+        font-size:18px;
+        font-weight:normal;
+        color:#6D5F38;
+      }
+      .erp-yenilikler-satir-2
+      {
+        height:40px;
+      }
+      .erp-yenilikler-satir-2-hucre-1
+      {
+        text-align:center;
+        width:60px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#FFFBF0;
+        font-weight:bold;
+        color:#6D5F38;
+      }
+      .erp-yenilikler-satir-2-hucre-2
+      {
+        text-align:left;
+        padding-left:10px;
+        width:726px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+      }
+/*---------------STIL-HOROZ ERP [BITIS]--------------------*/
+/*---------------STIL-HOROZ MOBIL [BASLANGIC]--------------------*/
+      .mobil-surum-notlari
+      {
+        font-size:22px;
+        font-weight:bold;
+        color:#3A6C42;
+      }
+      .mobil-surum-notlari-hucre-1
+      {
+        width:400px;
+        text-align:left;
+      }
+      .mobil-surum-notlari-hucre-2
+      {
+        width:400px;
+        text-align:right;
+      }
+      .mobil-tablo-genel
+      {
+        border:solid #62B870 2px;
+      }
+      .mobil-versiyon-satir-1-hucre-1
+      {
+        text-align:left;
+        border-bottom:solid #62B870 3px;
+        font-size:18px;
+        font-weight:bold;
+        color:#3A6C42;
+      }
+      .mobil-versiyon-satir-2
+      {
+        height:40px;
+      }
+      .mobil-versiyon-satir-2-hucre-1
+      {
+        text-align:center;
+        width:140px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#E7FFEB;
+        font-weight:normal;
+        color:#3A6C42;
+      }
+      .mobil-versiyon-satir-2-hucre-2
+      {
+        text-align:left;
+        width:646px;
+        padding-left:10px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#F3FFF5;
+        font-weight:normal;
+        font-style: italic;
+      }
+      .mobil-yenilikler-satir-1-hucre-1
+      {
+        text-align:left;
+        border-bottom:solid #62B870 3px;
+        font-size:18px;
+        font-weight:normal;
+        color:#3A6C42;
+      }
+      .mobil-yenilikler-satir-2
+      {
+        height:40px;
+      }
+      .mobil-yenilikler-satir-2-hucre-1
+      {
+        text-align:center;
+        width:60px;
+        border-left:solid #BFBFBF 1px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+        background:#F3FFF5;
+        font-weight:bold;
+        color:#3A6C42;
+      }
+      .mobil-yenilikler-satir-2-hucre-2
+      {
+        text-align:left;
+        padding-left:10px;
+        width:726px;
+        border-right:solid #BFBFBF 1px;
+        border-bottom:solid #BFBFBF 1px;
+      }
+/*---------------STIL-HOROZ MOBIL [BITIS]--------------------*/
+    </style>
